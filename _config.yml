@@ -1,5 +1,4 @@
 name: Random Access Thoughts on development
 markdown: redcarpet
 pygments: true
-url: http://localhost:4000 
-#http://benzonico.github.io
+url: http://benzonico.github.io
